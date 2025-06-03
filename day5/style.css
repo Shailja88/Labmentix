@@ -1,0 +1,23 @@
+*{
+  background-color: grey;
+  color: crimson;
+}
+div{
+  color:green;
+  
+}
+.cl{
+ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+ color: aqua;
+}
+#i{
+font-family: serif;
+color: palegoldenrod;
+}
+button:hover{
+  background-color: black;
+  color:white;
+}
+a:active{
+  background-color:rgb(39, 139, 0);
+}
